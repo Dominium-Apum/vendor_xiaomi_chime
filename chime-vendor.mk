@@ -519,12 +519,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/chime/proprietary/vendor/firmware/a650_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.b02 \
     vendor/xiaomi/chime/proprietary/vendor/firmware/a650_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.elf \
     vendor/xiaomi/chime/proprietary/vendor/firmware/a650_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.mdt \
+    vendor/xiaomi/chime/proprietary/vendor/firmware/a660_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a660_sqe.fw \
     vendor/xiaomi/chime/proprietary/vendor/firmware/a702_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_sqe.fw \
     vendor/xiaomi/chime/proprietary/vendor/firmware/a702_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_zap.b00 \
     vendor/xiaomi/chime/proprietary/vendor/firmware/a702_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_zap.b01 \
     vendor/xiaomi/chime/proprietary/vendor/firmware/a702_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_zap.b02 \
     vendor/xiaomi/chime/proprietary/vendor/firmware/a702_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_zap.elf \
     vendor/xiaomi/chime/proprietary/vendor/firmware/a702_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_zap.mdt \
+    vendor/xiaomi/chime/proprietary/vendor/firmware/a740v3_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a740v3_sqe.fw \
     vendor/xiaomi/chime/proprietary/vendor/firmware/aw87359_abrcv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw87359_abrcv.bin \
     vendor/xiaomi/chime/proprietary/vendor/firmware/aw87359_abspk.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw87359_abspk.bin \
     vendor/xiaomi/chime/proprietary/vendor/firmware/aw87359_drcv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw87359_drcv.bin \
